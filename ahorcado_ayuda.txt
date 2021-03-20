@@ -1,0 +1,29 @@
+Este es el juego del ahorcado!
+Adivina el pais. Tiene 4 letras.
+-----------
+Te quedan 6 oportunidades.
+Letras disponibles: abcdefghijklmnopqrstuvwxyz
+Posibles candidatos:
+chad cuba fiyi irak laos togo
+Te quedan 6 oportunidades.
+Letras disponibles: abcdefghijklmnopqrstuvwxyz
+Exito!: c_ _ _
+Te quedan 6 oportunidades.
+Letras disponibles: abdefghijklmnopqrstuvwxyz
+Posibles candidatos:
+chad cuba
+Te quedan 6 oportunidades.
+Letras disponibles: abdefghijklmnopqrstuvwxyz
+Exito!: cu_ _
+Te quedan 6 oportunidades.
+Letras disponibles: abdefghijklmnopqrstvwxyz
+Posibles candidatos:
+cuba
+Te quedan 6 oportunidades.
+Letras disponibles: abdefghijklmnopqrstvwxyz
+Exito!: cub_
+Te quedan 6 oportunidades.
+Letras disponibles: adefghijklmnopqrstvwxyz
+Exito!: cuba
+Felicitaciones, ganaste!
+El puntaje obtenido es 24

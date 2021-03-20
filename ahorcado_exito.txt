@@ -1,0 +1,17 @@
+Este es el juego del ahorcado!
+Adivina el pais. Tiene 4 letras.
+-----------
+Te quedan 6 oportunidades.
+Letras disponibles: abcdefghijklmnopqrstuvwxyz
+Exito!: p_ _ _
+Te quedan 6 oportunidades.
+Letras disponibles: abcdefghijklmnoqrstuvwxyz
+Exito!: pe_ _
+Te quedan 6 oportunidades.
+Letras disponibles: abcdfghijklmnoqrstuvwxyz
+Exito!: per_
+Te quedan 6 oportunidades.
+Letras disponibles: abcdfghijklmnoqstuvwxyz
+Exito!: peru
+Felicitaciones, ganaste!
+El puntaje obtenido es 24

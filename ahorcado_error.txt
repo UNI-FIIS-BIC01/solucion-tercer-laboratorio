@@ -1,0 +1,22 @@
+Este es el juego del ahorcado!
+Adivina el pais. Tiene 4 letras.
+-----------
+Te quedan 6 oportunidades.
+Letras disponibles: abcdefghijklmnopqrstuvwxyz
+Error! Esa letra no esta en la palabra: _ _ _ _
+Te quedan 5 oportunidades.
+Letras disponibles: abcdefghijklmnoprstuvwxyz
+Error! Esa letra no esta en la palabra: _ _ _ _
+Te quedan 3 oportunidades.
+Letras disponibles: abcdefghjklmnoprstuvwxyz
+Error! Esa letra no esta en la palabra: _ _ _ _
+Te quedan 2 oportunidades.
+Letras disponibles: abcdefghjklmnoprtuvwxyz
+Error! Esa letra no esta en la palabra: _ _ _ _
+Te quedan 1 oportunidades.
+Letras disponibles: abcdefghjklmnopruvwxyz
+Error! Esa letra no esta en la palabra: _ _ _ _
+Te quedan 0 oportunidades.
+Letras disponibles: abcdefghjklmnopruwxyz
+Error! Esa letra no esta en la palabra: _ _ _ _
+Lo siento, te quedaste sin oportunidades. El pais era peru
